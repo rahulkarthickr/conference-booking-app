@@ -1,6 +1,6 @@
 # Conference Booking Application
 
-This is a command-line application for managing bookings of a conference. It allows users to book tickets by providing their name, email, and the number of tickets they want to book. This application ensures that the total number of available tickets is not exceeded and provides a confirmation message for each booking.
+This is a command-line application for managing bookings of conference. It allows users to book tickets by providing their name, email, and the number of tickets they want to book. This application ensures that the total number of available tickets is not exceeded and provides a confirmation message for each booking.
 
 ## Requirements
 
